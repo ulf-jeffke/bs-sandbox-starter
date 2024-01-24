@@ -1,2 +1,0 @@
-superuser: bs_admin
-pw: 1Start$
